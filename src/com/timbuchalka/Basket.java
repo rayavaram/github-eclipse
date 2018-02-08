@@ -50,6 +50,7 @@ public class Basket {
     }
 
     public void clearBasket() {
+    	
         this.list.clear();
     }
 
